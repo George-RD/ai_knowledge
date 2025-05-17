@@ -1,17 +1,17 @@
-# 🤖 Claude AI Integration Reference
+# 🧠 AI Knowledge
 
-This repository documents how to integrate tools and multi-agent protocols with Anthropic Claude. It includes:
+This repository contains structured knowledge and references for working with AI systems, agents, and tooling.
 
-- 🛠 [`tool-use.md`](tool-use.md): How Claude uses tools with structured `antml` function call blocks.
-- 🤝 [`mcp.md`](mcp.md): How Claude interacts with other agents or services using MCP (Multi-Agent Communication Protocol).
-
-These guides are intended to help AI developers and system integrators build reliable, scalable systems.
+The goal is to maintain clear, educational documentation for verified AI usage patterns — particularly how tools are integrated with language models like Anthropic Claude.
 
 ---
 
 ## Contents
 
-| File          | Description                                     |
-|---------------|-------------------------------------------------|
-| `tool-use.md` | Tool usage syntax, flow, schema, and examples   |
-| `mcp.md`      | MCP request format, agent delegation, examples  |
+| File          | Description                                                 |
+|---------------|-------------------------------------------------------------|
+| `tool-use.md` | Verified guidance on Claude tool usage and integration flow |
+
+This guide is designed for developers building scalable and reliable systems using Claude’s actual tool call capabilities.
+
+---
